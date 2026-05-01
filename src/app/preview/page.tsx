@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";sssimport React, { useState } from 'react';
+import React, { useState } from "react";
 
 const screens = [
   { id: 'login', label: 'Login' },
